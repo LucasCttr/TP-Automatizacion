@@ -1,0 +1,4 @@
+#,legajo,titulo,entidad_otorgante,fecha_emision,fecha_emision_años,fecha_emision_meses,con_tesis,titulo_ona,pdf
+1,22023163,APU,UBA,03/10/2021,10,1,si,349,C:\\tagui\\flows\\samples\\prompt_answer_table_chatgpt.csv
+2,98765518,ABOG,IPET,01/10/2021,5,2,si,349,C:\tagui\flows\samples\prompt_answer_table_chatgpt.csv
+3,322961218,AGRI,IUSM,01/10/2020,2,1,no,349,C:\tagui\flows\samples\prompt_answer_table_chatgpt.csv
